@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "name": "Mountain Pose",
+    "sanskrit": "Tadasana",
+    "description": "A foundational standing pose promoting alignment and grounding.",
+    "benefit": "Improves posture, balance, and awareness.",
+    "precaution": "Avoid locking your knees; keep a gentle micro-bend.",
+    "steps": [
+      "Stand with your feet either hip-width apart or together, ensuring all four corners of each foot press evenly into the ground.",
+      "Spread your toes wide and gently lift your arches while rooting down through your heels.",
+      "Engage the thigh muscles slightly as you stack your knees directly over your ankles.",
+      "Lengthen through the legs and draw your belly gently inward to support the spine.",
+      "Roll shoulders up, back, and down, letting shoulder blades soften down the back.",
+      "Lift the crown of your head toward the sky, keeping chin parallel to the floor.",
+      "Relax your face and jaw while maintaining steady breath."
+    ],
+    "quote": "“In the stillness of the mountain, you find the foundation of all movement.”",
+    "imageUrl": "https://media.istockphoto.com/id/924163384/photo/young-woman-doing-mountain-exercise.jpg?s=612x612&w=0&k=20&c=sbV_6r4Q8lRH2-uLahL_nqTyizkU-OKBXkiLxquAwJY=",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tadasana",
+    "extra": ""
+  },
+  {
+    "id": 2,
+    "name": "Downward-Facing Dog",
+    "sanskrit": "Adho Mukha Svanasana",
+    "description": "An essential inverted pose forming a strong V-shape.",
+    "benefit": "Stretches spine, hamstrings, shoulders, and strengthens arms.",
+    "precaution": "Bend knees if hamstrings are tight; avoid wrist strain.",
+    "steps": [
+      "Begin on hands and knees with wrists directly under shoulders and knees beneath hips.",
+      "Spread your fingers wide and root through the knuckles of your hands to protect the wrists.",
+      "Curl your toes under and lift your knees off the ground as you raise your hips upward.",
+      "Gradually begin to straighten your legs without locking the knees; keep heels moving toward the floor.",
+      "Lengthen your spine by pressing your chest gently toward your thighs.",
+      "Relax your head and neck, letting ears align with biceps.",
+      "Engage your core and breathe deeply, keeping weight evenly distributed between hands and feet."
+    ],
+    "quote": "“Root down through the hands to rise through the hips.”",
+    "imageUrl": "https://cdn.yogajournal.com/wp-content/uploads/2021/11/Downward-Facing-Dog-Pose_Andrew-Clark_2400x1350.jpeg?auto=webp&width=3840&quality=75&fit=cover",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Downward_Dog",
+    "extra": ""
+  },
+  {
+    "id": 3,
+    "name": "Child’s Pose",
+    "sanskrit": "Balasana",
+    "description": "A gentle resting pose that relaxes the spine and hips.",
+    "benefit": "Calms the nervous system and releases back tension.",
+    "precaution": "Avoid if experiencing severe knee injury.",
+    "steps": [
+      "Begin on your hands and knees, bringing your big toes together.",
+      "Separate your knees as wide as comfortable, allowing hips to sink back toward your heels.",
+      "Walk your hands forward as you fold your torso down between or over your thighs.",
+      "Rest your forehead on the mat, a block, or stacked hands.",
+      "Extend arms forward for an active stretch or bring them alongside your legs for a more restorative variation.",
+      "Soften shoulders, jaw, and belly while lengthening through the spine.",
+      "Breathe slowly, allowing each exhale to deepen your sense of rest."
+    ],
+    "quote": "“Surrender is the beginning of healing.”",
+    "imageUrl": "https://img.freepik.com/free-photo/young-attractive-woman-child-pose-studio-background_1163-4555.jpg?ga=GA1.1.257534880.1759763687&semt=ais_hybrid&w=740&q=80",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Balasana",
+    "extra": ""
+  },
+  {
+    "id": 4,
+    "name": "Cobra Pose",
+    "sanskrit": "Bhujangasana",
+    "description": "A gentle backbend lifting the chest up from the ground.",
+    "benefit": "Strengthens spine and opens chest.",
+    "precaution": "Avoid compressing lower back; use gentle lift.",
+    "steps": [
+      "Lie flat on your stomach with the tops of your feet pressing into the mat.",
+      "Place your hands under your shoulders, elbows hugging close to your ribcage.",
+      "Press lightly into your palms as you begin lifting your head and chest.",
+      "Engage your back muscles rather than pushing heavily with your hands.",
+      "Keep elbows slightly bent and shoulders relaxed away from ears.",
+      "Lift only as high as feels comfortable without compressing the lower back.",
+      "Keep your gaze forward or slightly upward while maintaining smooth breath."
+    ],
+    "quote": "“Rise with the heart of a cobra—steady, open, awake.”",
+    "imageUrl": "https://rishikeshashtangayogaschool.com/blog/wp-content/uploads/2021/11/cobra-pose_11zon.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bhujangasana",
+    "extra": ""
+  },
+  {
+    "id": 5,
+    "name": "Upward-Facing Dog",
+    "sanskrit": "Urdhva Mukha Svanasana",
+    "description": "A deeper backbend supported by hands and feet.",
+    "benefit": "Opens chest, strengthens arms and wrists.",
+    "precaution": "Avoid if experiencing lower-back pain.",
+    "steps": [
+      "Lie on your belly with legs extended behind you and tops of feet pressing into the mat.",
+      "Place your palms beside your lower ribs, elbows pointing backward.",
+      "Press into your hands as you lift your chest, straightening your arms.",
+      "Activate your quadriceps to lift your thighs and pelvis off the mat.",
+      "Roll shoulders back and lift through the sternum, expanding the chest.",
+      "Keep the back of your neck long and gaze slightly forward.",
+      "Engage your core to avoid collapsing into the lower back."
+    ],
+    "quote": "“Lift the heart and let the breath guide your expansion.”",
+    "imageUrl": "https://cdn.yogajournal.com/wp-content/uploads/2021/12/Upward-Facing-Dog_Andrew-Clark.jpg?auto=webp&width=3840&quality=75&fit=cover",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Upward_Facing_Dog",
+    "extra": ""
+  },
+  {
+    "id": 6,
+    "name": "Plank Pose",
+    "sanskrit": "Phalakasana",
+    "description": "A strength-building pose like the top of a pushup.",
+    "benefit": "Strengthens core, arms, and stabilizing muscles.",
+    "precaution": "Avoid letting hips sag; maintain alignment.",
+    "steps": [
+      "Begin on your hands and knees and step your feet back one at a time.",
+      "Press firmly into your palms, keeping shoulders stacked over wrists.",
+      "Straighten your legs and engage your thighs, drawing energy up the legs.",
+      "Engage the core by drawing the belly inward toward the spine.",
+      "Keep your body in a straight line from head to heels.",
+      "Press your heels back while lengthening forward through the crown of your head.",
+      "Maintain steady breath while avoiding sinking hips or bowing the back."
+    ],
+    "quote": "“Strength is born in holding steady.”",
+    "imageUrl": "https://cdn.yogajournal.com/wp-content/uploads/2022/01/Forearm-Plank_Andrew-Clark.jpg?auto=webp&width=3840&quality=75&fit=cover",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Plank_(exercise)",
+    "extra": ""
+  },
+  {
+    "id": 7,
+    "name": "Chaturanga",
+    "sanskrit": "Chaturanga Dandasana",
+    "description": "A low pushup strengthening the upper body.",
+    "benefit": "Builds arm, shoulder, and core strength.",
+    "precaution": "Avoid if you have shoulder issues.",
+    "steps": [
+      "Begin in Plank Pose with shoulders aligned over wrists.",
+      "Shift your body slightly forward so shoulders pass your wrists.",
+      "Bend elbows straight back, keeping them hugging the ribcage.",
+      "Lower your torso in a straight line without dropping the hips.",
+      "Stop when elbows reach a 90-degree angle, maintaining control.",
+      "Engage your core and legs to keep the body stable.",
+      "Hold briefly before transitioning to Upward-Facing Dog or lowering fully to the floor."
+    ],
+    "quote": "“Control the descent; honor the strength within.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Chaturanga_Dandasana",
+    "extra": ""
+  },
+  {
+    "id": 8,
+    "name": "Warrior I",
+    "sanskrit": "Virabhadrasana I",
+    "description": "A powerful lunge with square hips and lifted arms.",
+    "benefit": "Strengthens legs and opens hips.",
+    "precaution": "Keep the front knee aligned with toes.",
+    "steps": [
+      "Step one foot forward into a deep lunge with the front knee stacked over the ankle.",
+      "Turn the back heel down at a 45-degree angle, pressing firmly into the outer edge of the foot.",
+      "Square your hips forward by gently drawing the back hip toward the front.",
+      "Raise your arms overhead with palms facing each other.",
+      "Lengthen through your spine while rooting down through both feet.",
+      "Relax shoulders away from ears as you lift through the chest.",
+      "Keep breath steady while maintaining front-knee alignment."
+    ],
+    "quote": "“Stand tall like a warrior—focused and rooted.”",
+    "imageUrl": "https://media.istockphoto.com/id/664635180/photo/young-attractive-woman-in-warrior-one-pose-grey-studio-backgrou.jpg?s=612x612&w=0&k=20&c=pIxY9T2pfzdtFd6s5ifz8e5qXfEXJIXBOKTMHVXyqAg=",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Virabhadrasana_I",
+    "extra": ""
+  },
+  
+  {
+    "id": 9,
+    "name": "Warrior II",
+    "sanskrit": "Virabhadrasana II",
+    "description": "A wide stance pose with arms extended horizontally.",
+    "benefit": "Improves stamina and strengthens legs.",
+    "precaution": "Avoid letting the front knee collapse inward.",
+    "steps": [
+      "From a standing position, step your feet wide apart—about a leg-length distance.",
+      "Turn your right foot out 90 degrees and your left foot slightly inward.",
+      "Align your front heel with the arch of your back foot.",
+      "Bend your front knee to 90 degrees, ensuring the knee tracks over the second and third toes.",
+      "Extend your arms out to shoulder height, parallel to the floor.",
+      "Relax your shoulders and reach equally through both fingertips.",
+      "Keep your torso upright as you gaze over your front hand.",
+      "Press into the outer edge of your back foot to maintain stability."
+    ],
+    "quote": "“Where your gaze goes, your energy flows.”",
+    "imageUrl": "https://media.istockphoto.com/id/846052108/photo/young-attractive-woman-in-warrior-two-pose-studio-background.jpg?s=612x612&w=0&k=20&c=EYt_E2fx4T6nmyl9Dvpen5S-GvGig79AchHvQ2h4MGM=",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Virabhadrasana_II",
+    "extra": ""
+  },
+  {
+    "id": 10,
+    "name": "Warrior III",
+    "sanskrit": "Virabhadrasana III",
+    "description": "A balancing pose with torso and leg extending parallel to the floor.",
+    "benefit": "Builds balance, focus, and leg strength.",
+    "precaution": "Use wall support if necessary.",
+    "steps": [
+      "Begin in a lunge with your front knee bent and back leg extended.",
+      "Shift weight into your front foot as you lean your torso forward.",
+      "Simultaneously lift your back leg off the ground, extending it straight behind you.",
+      "Create a long line from the crown of your head through your lifted heel.",
+      "Keep hips level by dropping the outer hip of the lifted leg slightly.",
+      "Extend your arms forward, back, or out to the sides for balance.",
+      "Engage your core and keep your standing leg strong.",
+      "Maintain steady breath as you hold your balance."
+    ],
+    "quote": "“Balance emerges when effort meets breath.”",
+    "imageUrl": "https://media.istockphoto.com/id/667293756/photo/young-yogi-attractive-woman-in-warrior-three-pose-loft-background.jpg?s=612x612&w=0&k=20&c=bjP_10YlEQt7WWXKm-RV3O-3UXHJohP5AmuvJofmnG8=",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Virabhadrasana_III",
+    "extra": ""
+  },
+  {
+    "id": 11,
+    "name": "Triangle Pose",
+    "sanskrit": "Trikonasana",
+    "description": "A standing side-body stretch with extended arms.",
+    "benefit": "Improves flexibility in spine and hips.",
+    "precaution": "Avoid hyperextending knees.",
+    "steps": [
+      "Stand with your feet wide apart, about a leg-length distance.",
+      "Turn your right foot out 90 degrees and left foot slightly inward.",
+      "Extend your arms out to the sides at shoulder height.",
+      "Reach your right arm forward while keeping both sides of the waist long.",
+      "Hinge at the hip and tilt your torso over your right leg.",
+      "Place your right hand on your shin, block, or the floor—depending on flexibility.",
+      "Extend your left arm straight upward, stacking shoulders vertically.",
+      "Gaze upward or keep the neck neutral based on comfort."
+    ],
+    "quote": "“Create length, create space, create freedom.”",
+    "imageUrl": "https://lh3.googleusercontent.com/1lFCiwdr0bqa_JDFaYD84M_TfvJ3RYy5mWpV0UfRTU7xWcEtRjbrG8vNowmL9pK1tWUVWng9jDML5TQJzC3i10hKS3JXMACiD_tV8sScPBGBF-Bhybv1Vw55Hvul60Z9pL09cCrP",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Trikonasana",
+    "extra": ""
+  },
+  {
+    "id": 12,
+    "name": "Extended Side Angle",
+    "sanskrit": "Utthita Parsvakonasana",
+    "description": "A deep lunge with side-body lengthening.",
+    "benefit": "Strengthens legs and opens chest.",
+    "precaution": "Keep spine long; avoid collapsing.",
+    "steps": [
+      "Begin in Warrior II with your front knee bent at 90 degrees.",
+      "Bring your front elbow to rest gently on your thigh or place your hand on a block or floor.",
+      "Extend your top arm overhead, creating a diagonal line from foot to fingertips.",
+      "Rotate your chest upward, avoiding collapsing forward.",
+      "Press into the outer edge of your back foot for stability.",
+      "Draw your lower ribs in to keep the spine long.",
+      "Engage the core and breathe steadily as you deepen the stretch."
+    ],
+    "quote": "“Side body expansion opens hidden strength.”",
+    "imageUrl": "https://media.istockphoto.com/id/846052116/photo/young-attractive-woman-in-utthita-parsvakonasana-pose-studio-background.jpg?s=612x612&w=0&k=20&c=B-qJBMW1gfgKEylE7gF1m3RCD2ujHaFN6dZRFNJfDNc=",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Utthita_Parsvakonasana",
+    "extra": ""
+  },
+  {
+    "id": 13,
+    "name": "Reverse Warrior",
+    "sanskrit": "Viparita Virabhadrasana",
+    "description": "A heart-opening side bend from Warrior II.",
+    "benefit": "Stretches side waist and strengthens legs.",
+    "precaution": "Avoid overextension in lower back.",
+    "steps": [
+      "Start in Warrior II with your front knee bent and arms extended.",
+      "Flip your front palm upward and reach that arm overhead.",
+      "Slide your back hand down your back leg without collapsing weight onto it.",
+      "Lift your chest as you lengthen through your side body.",
+      "Keep the front knee deeply bent and aligned over the toes.",
+      "Avoid dumping into the lower back by engaging the core.",
+      "Gaze upward or forward depending on neck comfort."
+    ],
+    "quote": "“Move like a wave — strong yet fluid.”",
+    "imageUrl": "https://www.theyogacollective.com/wp-content/uploads/2019/11/reverse-warrior-e1574688887752.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Reverse_Warrior",
+    "extra": ""
+  },
+  {
+    "id": 14,
+    "name": "Chair Pose",
+    "sanskrit": "Utkatasana",
+    "description": "A dynamic standing squat that strengthens lower body.",
+    "benefit": "Builds power in legs and core.",
+    "precaution": "Avoid overarching lower back.",
+    "steps": [
+      "Stand with your feet together or hip-width apart.",
+      "Bend your knees and sit your hips back as if lowering into a chair.",
+      "Keep your knees aligned with your toes and weight in your heels.",
+      "Lift your arms overhead, palms facing inward.",
+      "Draw your tailbone down slightly to avoid overarching your lower back.",
+      "Lengthen through the spine and lift the chest.",
+      "Engage your core and breathe deeply as you hold the posture."
+    ],
+    "quote": "“Sit into strength; rise with intention.”",
+    "imageUrl": "https://t4.ftcdn.net/jpg/01/63/64/69/240_F_163646955_SbrZNcHUNfgXbpcHKECMjSbm4l3rmYQ4.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Utkatasana",
+    "extra": ""
+  },
+  {
+    "id": 15,
+    "name": "Tree Pose",
+    "sanskrit": "Vrksasana",
+    "description": "A one-legged standing balance pose.",
+    "benefit": "Improves stability and focus.",
+    "precaution": "Avoid placing foot on knee joint.",
+    "steps": [
+      "Begin standing in Mountain Pose with arms at your sides.",
+      "Shift your weight into your left foot, grounding firmly.",
+      "Lift your right foot and place the sole on your left ankle, calf, or inner thigh—avoiding the knee.",
+      "Press foot and leg together to create stability.",
+      "Bring hands to heart center or raise them overhead.",
+      "Keep your gaze steady on a fixed point to improve balance.",
+      "Engage your core and maintain slow, deep breathing."
+    ],
+    "quote": "“Root to rise.”",
+    "imageUrl": "https://www.arhantayoga.org/wp-content/uploads/2022/03/Tree-Pose-%E2%80%93-Vrikshasana.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vriksasana",
+    "extra": ""
+  },
+  {
+    "id": 16,
+    "name": "Bridge Pose",
+    "sanskrit": "Setu Bandhasana",
+    "description": "A gentle backbend lifting the hips upward.",
+    "benefit": "Strengthens back and glutes.",
+    "precaution": "Avoid turning your head while in the pose.",
+    "steps": [
+      "Lie on your back with your knees bent and feet hip-width apart.",
+      "Walk your feet close to your hips with toes pointing forward.",
+      "Press firmly into your feet as you lift your hips upward.",
+      "Roll your shoulders under and interlace your fingers beneath your body if comfortable.",
+      "Lift your chest toward your chin without compressing the neck.",
+      "Engage glutes and thighs to support the lift.",
+      "Breathe smoothly, keeping the neck neutral."
+    ],
+    "quote": "“Lift your heart and let it open.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Setu_Bandha_Sarvangasana",
+    "extra": ""
+  },
+  {
+    "id": 17,
+    "name": "Seated Forward Fold",
+    "sanskrit": "Paschimottanasana",
+    "description": "A deep seated stretch for hamstrings and spine.",
+    "benefit": "Calms the mind and lengthens the back body.",
+    "precaution": "Keep the spine long; avoid rounding excessively.",
+    "steps": [
+      "Sit tall on the floor with your legs extended straight in front of you.",
+      "Adjust your sitting bones by gently rocking side to side to find a grounded base.",
+      "Flex your feet so your toes point upward, engaging the legs.",
+      "Inhale and lengthen your spine, reaching your arms overhead.",
+      "Hinge forward from your hips as you exhale, keeping the spine long.",
+      "Reach your hands to your shins, ankles, or feet—wherever is accessible without strain.",
+      "Relax your neck and soften your shoulders while maintaining gentle length in the spine.",
+      "Breathe deeply, allowing each exhale to help you soften into the stretch."
+    ],
+    "quote": "“Fold not in force, but in surrender.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Paschimottanasana",
+    "extra": ""
+  },
+  {
+    "id": 18,
+    "name": "Boat Pose",
+    "sanskrit": "Navasana",
+    "description": "A core-strengthening balance on the sit bones.",
+    "benefit": "Develops core endurance.",
+    "precaution": "Avoid collapsing chest or rounding the back.",
+    "steps": [
+      "Begin seated with your knees bent and feet flat on the floor.",
+      "Sit tall and lean back slightly while keeping the spine long.",
+      "Lift your feet off the ground, bringing shins parallel to the floor.",
+      "Engage your core and balance on your sit bones.",
+      "Extend your arms forward at shoulder height with palms facing each other.",
+      "For a deeper variation, straighten your legs to form a V-shape with your body.",
+      "Keep your chest lifted and breath steady as you hold."
+    ],
+    "quote": "“Balance begins in the center.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Navasana",
+    "extra": ""
+  },
+  {
+    "id": 19,
+    "name": "Camel Pose",
+    "sanskrit": "Ustrasana",
+    "description": "A deep backbend opening chest and front body.",
+    "benefit": "Improves posture and energizes body.",
+    "precaution": "Avoid dropping head too far back.",
+    "steps": [
+      "Kneel on the floor with your knees hip-width apart and thighs perpendicular to the ground.",
+      "Place your hands on your lower back with fingers pointing down for support.",
+      "Lift your chest upward as you draw shoulder blades together.",
+      "Gently begin to arch your back, pressing hips forward.",
+      "If comfortable, reach your hands back one at a time to hold your heels.",
+      "Keep your neck neutral or allow a slight backward gaze without collapsing.",
+      "Engage your core and thighs as you breathe deeply in the posture."
+    ],
+    "quote": "“Open the heart and breathe courage.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ustrasana",
+    "extra": ""
+  },
+  {
+    "id": 20,
+    "name": "Cat Cow Pose",
+    "sanskrit": "Marjaryasana–Bitilasana",
+    "description": "A flowing spinal warm-up between arching and rounding.",
+    "benefit": "Improves spinal mobility.",
+    "precaution": "Move slowly through transitions.",
+    "steps": [
+      "Begin on your hands and knees in a tabletop position with wrists under shoulders and knees under hips.",
+      "For Cow Pose, inhale as you drop your belly, lift your chest, and tilt your pelvis upward.",
+      "Draw your shoulder blades back and lift your gaze slightly forward.",
+      "For Cat Pose, exhale as you round your spine upward, tucking chin and tailbone.",
+      "Press firmly into your palms and broaden your shoulder blades.",
+      "Flow smoothly between the two poses, matching movement with breath.",
+      "Maintain steady rhythm, allowing the spine to warm and loosen."
+    ],
+    "quote": "“Motion creates emotion—flow with awareness.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cat%E2%80%93cow",
+    "extra": ""
+  },
+  {
+    "id": 21,
+    "name": "Half Lord of the Fishes",
+    "sanskrit": "Ardha Matsyendrasana",
+    "description": "A seated spinal twist improving rotation.",
+    "benefit": "Detoxifies organs and improves posture.",
+    "precaution": "Avoid deep twist if pregnant.",
+    "steps": [
+      "Sit with your legs extended in front of you.",
+      "Bend your right knee and place your right foot outside your left thigh.",
+      "Bend your left leg and tuck the heel near your right hip if comfortable.",
+      "Lengthen your spine on an inhale, sitting tall.",
+      "Twist your torso toward your right knee as you exhale.",
+      "Place your left elbow outside your right knee and your right hand behind you for support.",
+      "Maintain length through your spine as you deepen the twist with each breath."
+    ],
+    "quote": "“Twist to rinse the old and invite the new.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ardha_Matsyendrasana",
+    "extra": ""
+  },
+  {
+    "id": 22,
+    "name": "Pigeon Pose",
+    "sanskrit": "Kapotasana (Prep)",
+    "description": "A deep hip opener targeting glutes and hip flexors.",
+    "benefit": "Releases stored tension in the hips.",
+    "precaution": "Support hips with blocks if needed.",
+    "steps": [
+      "Begin in Downward-Facing Dog and lift your right leg upward.",
+      "Bring your right knee toward your right wrist while lowering your shin to the mat.",
+      "Extend your left leg straight behind you with the top of the foot resting on the floor.",
+      "Square your hips forward by drawing your right hip back and left hip forward.",
+      "Stay upright or walk your hands forward to fold over the front leg.",
+      "Rest your forehead on the mat or a prop as you relax into the stretch.",
+      "Breathe deeply, softening into the hips with each exhale."
+    ],
+    "quote": "“Open the hips, unlock the heart.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pigeon_pose",
+    "extra": ""
+  },
+  {
+    "id": 23,
+    "name": "Crow Pose",
+    "sanskrit": "Bakasana",
+    "description": "An arm balance requiring focus and core strength.",
+    "benefit": "Strengthens arms and develops balance.",
+    "precaution": "Practice with a soft surface if new.",
+    "steps": [
+      "Begin in a low squat with feet hip-width apart and hands shoulder-width in front of you.",
+      "Spread your fingers wide and press firmly into the mat.",
+      "Lift your hips and place your knees high on your upper arms or triceps.",
+      "Shift your weight forward gradually, keeping gaze ahead—not down.",
+      "Engage your core as you lean forward further onto your hands.",
+      "Lift one foot at a time, eventually raising both to balance fully.",
+      "Keep breath steady and arms strong without locking elbows."
+    ],
+    "quote": "“Lean into fear, and discover flight.”",
+    "imageUrl": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bakasana",
+    "extra": ""
+  },
+  {
+    "id": 24,
+    "name": "Happy Baby",
+    "sanskrit": "Ananda Balasana",
+    "description": "A gentle hip opener lying on the back.",
+    "benefit": "Releases lower back tension.",
+    "precaution": "Avoid rocking too aggressively.",
+    "steps": [
+      "Lie on your back with your knees bent toward your chest.",
+      "Grab the outer edges of your feet with your hands.",
+      "Open your knees wider than your torso, keeping ankles over knees.",
+      "Flex your feet and gently pull them downward to deepen the stretch.",
+      "Keep your lower back grounded on the mat.",
+      "Optionally rock side to side to massage the spine.",
+      "Relax your jaw, shoulders, and breath."
+    ],
+    "quote": "“Joy comes from embracing simplicity.”",
+    "imageUrl": "https://media.istockphoto.com/id/1042985066/photo/young-sporty-woman-doing-happy-baby-exercise.jpg?s=612x612&w=0&k=20&c=zIporzIAIBUfWZN-8RO6x5N0me_6dTMgRemiuGy-G4E=",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Happy_baby_pose",
+    "extra": ""
+  }
+
+
+
+]

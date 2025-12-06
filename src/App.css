@@ -1,0 +1,441 @@
+/* ========== THEME COLORS ========== */
+:root {
+  --coffee: #220901;
+  --garnet: #621708;
+  --oxblood: #941b0c;
+  --rusty: #bc3908;
+  --warm-orange: #f6aa1c;
+  --bg: #fff8f2;
+}
+
+/* ========== GLOBAL ========== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body {
+  background: var(--bg);
+  color: var(--coffee);
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;  /* stack navbar, main, footer */
+}
+
+/* center main content below fixed navbar */
+main {
+  flex: 1;                 /* take remaining space */
+  padding: 1.5rem;
+  padding-top: 4.5rem;     /* your navbar space */
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+  /* background-color: rgb(242, 254, 193); */
+}
+
+/* ========== NAVBAR ========== */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  display: flex;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+
+  background: #fff7f0;
+  box-shadow: 0 2px 8px rgba(34, 9, 1, 0.15);
+  z-index: 1000;
+}
+
+/* n1:n2 = 2:3 */
+.n1 {
+  display: flex;
+  align-items: center;
+  flex: 2;
+}
+
+.n2 {
+  display: flex;
+  align-items: center;
+  flex: 3;
+  padding-right: 25px;
+}
+
+/* logo */
+.logo-button {
+  background: none;
+  border: none;
+  padding: 0;
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: var(--rusty);
+  cursor: pointer;
+}
+
+/* center search */
+.navbar-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  padding: 1%;
+}
+
+/* right links */
+.navbar-right {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+}
+.navbar-left{
+  display: flex;
+}
+.inside-navbar-left-r{
+  padding: 5px;
+  font-size: small;
+}
+/* search input */
+.search-input {
+  width: 260px;
+  max-width: 100%;
+  height: 30px;
+  color: #220901;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid var(--warm-orange);
+  padding: 0 0.6rem;
+}
+
+/* nav links & buttons */
+.nav-link {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: var(--coffee);
+}
+
+.nav-link.active {
+  color: var(--rusty);
+  font-weight: 600;
+}
+
+.btn {
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.btn-primary {
+  background: var(--rusty);
+  border-color: var(--rusty);
+  color: #ffffff;
+}
+
+.btn-outline {
+  border-color: var(--garnet);
+  color: var(--garnet);
+  background: transparent;
+}
+
+.btn-primary:hover {
+  background: var(--oxblood);
+}
+
+.btn-outline:hover {
+  background: rgba(246, 170, 28, 0.15);
+}
+/* Remove default focus ring on nav buttons */
+.nav-link:focus,
+.btn:focus,
+.logo-button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+/* ========== HOME LAYOUT: SLIDER + FACT (4:1) ========== */
+.home-flex {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+/* Slider area: 4 parts */
+.home-slider {
+  flex: 4;
+}
+
+/* Facts area: 1 part */
+.home-facts {
+  flex: 1;
+}
+
+/* remove extra top margin inside facts when on the side */
+.home-facts .section,
+.home-facts .fact-rotator {
+  margin-top: 0;
+}
+
+/* ========== HERO / SLIDER ========== */
+.hero {
+  display: flex;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+  align-items: center;
+  background: linear-gradient(120deg, #fff3e0, #ffe7cc);
+  border-radius: 1rem;
+  padding: 1.25rem 1.5rem;
+  height: 80vh;
+}
+
+.hero-text h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+  color: var(--coffee);
+}
+
+.hero-text p {
+  margin-bottom: 1rem;
+  color: #5c4b40;
+}
+
+/* .hero-image-box {
+  display: flex;
+  justify-content: center;
+}
+
+.hero-image {
+  max-width: 100%;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 12px rgba(34, 9, 1, 0.35);
+} */
+
+/* old card styles (if needed later) */
+.hero-cards {
+  display: flex;
+  overflow-x: auto;
+  gap: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.hero-card {
+  min-width: 210px;
+  background: #fffdf9;
+  border-radius: 0.75rem;
+  padding: 0.75rem;
+  box-shadow: 0 4px 12px rgba(34, 9, 1, 0.1);
+}
+
+/* .hero-image-placeholder {
+  height: 300px;
+  width: 300px;
+  border-radius: 0.6rem;
+  background: linear-gradient(135deg, var(--rusty), var(--warm-orange));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 5px;
+} */
+
+.hero-image-box {
+  width:600px;        /* fixed box width */
+  height:600px;       /* fixed box height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+  overflow: hidden;    /* crop anything outside the box */
+  background: #fffdf9; /* subtle background behind image */
+  box-shadow: 0 4px 12px rgba(34, 9, 1, 0.25);
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;   /* fill box, keep aspect ratio, crop overflow */
+}
+
+
+.hero-image-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+  background: linear-gradient(135deg, rgba(188, 57, 8, 0.2), rgba(246, 170, 28, 0.4));
+  font-weight: 600;
+}
+
+/* ========== SECTIONS & FACT TEXT ========== */
+.section {
+  margin: 2rem 0;
+}
+
+.section-title {
+  font-size: 1.6rem;
+  margin-bottom: 0.25rem;
+  color: var(--coffee);
+}
+
+.section-subtitle {
+  color: #7c6a5f;
+  margin-bottom: 1rem;
+}
+
+.fact-rotator {
+  padding: 0.75rem 0;
+}
+
+.fact-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--warm-orange);
+  margin-bottom: 0.25rem;
+}
+
+.fact-main {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+
+.fact-details {
+  font-size: 0.9rem;
+  color: #7c6a5f;
+}
+
+/* ========== FOOTER ========== */
+.footer {
+  /* max-width: 1100px; */
+  width: 100%;
+  margin: 0 auto;        /* centers footer block */
+  text-align: center;    /* centers text inside */
+  padding: 1rem 1.5rem;
+  color: #7c6a5f;
+  font-size: 0.85rem;
+  background-color: #f6ecec;
+  /* width: 100vw;              /* span full viewport width */
+  /* margin-left: calc(50% - 50vw); /* cancel main's centering */
+  /* text-align: center;       /* center the text inside */
+  /* padding: 1rem 1.5rem;
+  color: #7c6a5f;
+  font-size: 0.85rem;
+    */
+  /* position:absolute;
+  bottom: 0px;  */
+  /* left: 50%; Moves left edge to center */
+  /* transform: translateX(-50%); Shifts back by half its own width */
+
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 768px) {
+  /* stack slider & fact vertically */
+  .home-flex {
+    flex-direction: column;
+  }
+
+  .hero {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .navbar {
+    flex-wrap: wrap;
+    row-gap: 0.5rem;
+  }
+
+  .n1,
+  .n2 {
+    flex: 1 1 100%;
+  }
+
+  main {
+    padding-top: 6rem; /* navbar taller on mobile */
+  }
+}
+/* wrapper around input + list */
+.combo {
+  position: relative;       /* key: list will be positioned relative to this */
+  width: 260px;
+}
+
+/* dropdown list should FLOAT over content, not push layout */
+.combo-list {
+  position: absolute;
+  top: 105%;                /* just below the input */
+  left: 0;
+  right: 0;
+  max-height: 220px;
+  overflow-y: auto;
+
+  background: #fffdf9;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 0.5rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  z-index: 1200;            /* higher than navbar so it appears on top */
+  list-style: none;         /* remove bullets */
+  padding: 0;
+  margin: 0;
+}
+
+.combo-item {
+  padding: 0.4rem 0.6rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.combo-item:hover {
+  background: rgba(246, 170, 28, 0.15);
+}
+
+.combo-empty {
+  color: #7c6a5f;
+  cursor: default;
+}
+
+.pose-steps {
+  margin-top: 0.5rem;
+  padding-left: 1.1rem;
+  font-size: 0.9rem;
+  color: #5c4b40;
+}
+.about-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  background-color:rgb(255, 243, 224);
+  padding: 15px;
+  
+}
+.about-grid ul {
+  margin-top: 0.5rem;
+  /* padding-left: 1.1rem; */
+  font-size: 0.9rem;
+  list-style-type: none;
+}
+.info-card,h3 {
+  font-weight: lighter;
+}
+/* read more wiki button */
+.read-more-btn{
+  color: var(--oxblood);
+  padding-top: 10px;
+  margin-left: 50%;
+
+}
+.read-more-btn:hover{
+  color: #bc3908;
+}

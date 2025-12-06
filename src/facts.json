@@ -1,0 +1,546 @@
+{
+  "yogaFacts": [
+    {
+      "id": 1,
+      "title": "Ancient Wisdom",
+      "fact": "Yoga is over 5,000 years old.",
+      "details": "Originating in the Indus–Saraswati civilization, yoga evolved as a complete system for physical health, mental discipline, and spiritual awakening. Its timeless principles continue to support modern lifestyles."
+    },
+    {
+      "id": 2,
+      "title": "Breath is Power",
+      "fact": "Pranayama boosts oxygen flow and calms your mind.",
+      "details": "Slow, deep breathing activates the parasympathetic nervous system, lowers stress hormones, and increases lung efficiency — making your mind clearer and your body more energized."
+    },
+    {
+      "id": 3,
+      "title": "Better Sleep",
+      "fact": "10 minutes of yoga can improve your sleep sharply.",
+      "details": "Gentle stretches, controlled breathing, and mindful relaxation before bed reduce tension and prepare the body for restful, uninterrupted sleep by balancing the nervous system."
+    },
+    {
+      "id": 4,
+      "title": "Boosts Flexibility",
+      "fact": "Yoga increases flexibility and reduces stiffness.",
+      "details": "Consistent practice elongates muscles, lubricates joints, and loosens connective tissues — making daily movements smoother and reducing risk of injury."
+    },
+    {
+      "id": 5,
+      "title": "Strength + Stability",
+      "fact": "Yoga strengthens deep muscles and improves posture.",
+      "details": "Poses like Plank, Warrior, and Chair engage stabilizer muscles that are often neglected, creating balanced strength and a naturally upright posture."
+    },
+    {
+      "id": 6,
+      "title": "Natural Stress Relief",
+      "fact": "Yoga reduces cortisol — the stress hormone.",
+      "details": "Mindful breathing, meditation, and grounding poses bring the body out of 'fight or flight' mode, reducing anxiety, tension, and emotional exhaustion."
+    },
+    {
+      "id": 7,
+      "title": "Mind–Body Harmony",
+      "fact": "Yoga brings focus, awareness, and emotional balance.",
+      "details": "It trains the mind to notice thoughts without reacting, helping you stay calm, present, and emotionally centered throughout your day."
+    },
+    {
+      "id": 8,
+      "title": "Heart Health",
+      "fact": "Yoga improves cardiovascular health naturally.",
+      "details": "Regular practice helps regulate blood pressure, lowers LDL cholesterol, and enhances circulation — supporting long-term heart wellness."
+    },
+    {
+      "id": 9,
+      "title": "Boosts Immunity",
+      "fact": "Yoga enhances lymph flow and detoxification.",
+      "details": "Movement combined with deep breathing helps your lymphatic system remove toxins, strengthening your natural immunity and resilience."
+    },
+    {
+      "id": 10,
+      "title": "Long Life Practice",
+      "fact": "Yoga is connected to slower cellular aging.",
+      "details": "Studies show improvements in telomerase activity among yoga practitioners, which helps cells stay healthy longer and reduces biological aging."
+    },
+    {
+      "id": 11,
+      "title": "Energy Awakening",
+      "fact": "Sun Salutations activate your internal energy centers.",
+      "details": "Surya Namaskar stimulates the solar plexus and improves blood flow, giving an instant boost of vitality and focus to start your day."
+    },
+    {
+      "id": 12,
+      "title": "Mood Uplifter",
+      "fact": "Yoga increases serotonin — the happiness chemical.",
+      "details": "The blend of movement, breath control, and mindfulness activates brain regions linked to joy, positivity, and emotional wellbeing."
+    },
+    {
+      "id": 13,
+      "title": "Brain Booster",
+      "fact": "20 minutes of yoga enhances mental clarity.",
+      "details": "Researchers found that yoga increases prefrontal cortex activity, improving decision-making, memory, and cognitive speed."
+    },
+    {
+      "id": 14,
+      "title": "Better Digestion",
+      "fact": "Twisting poses help support digestive health.",
+      "details": "Asanas like Ardha Matsyendrasana massage abdominal organs, stimulate blood flow, and improve metabolism — aiding smoother digestion."
+    },
+    {
+      "id": 15,
+      "title": "Reduces Anxiety",
+      "fact": "Yoga activates your natural relaxation system.",
+      "details": "Breathing and grounding poses regulate the vagus nerve, reducing racing thoughts, lowering heartbeat, and creating deep calm."
+    },
+    {
+      "id": 16,
+      "title": "Stronger Bones",
+      "fact": "Yoga helps improve bone density naturally.",
+      "details": "Weight-bearing postures like Tree, Warrior, and Plank stimulate bone formation, helping prevent osteoporosis and keeping your skeletal system strong."
+    },
+    {
+      "id": 17,
+      "title": "Improves Balance",
+      "fact": "Yoga enhances both physical and mental balance.",
+      "details": "Balancing poses train your muscles, nervous system, and concentration — reducing falls and improving everyday stability."
+    },
+    {
+      "id": 18,
+      "title": "Detox Through Movement",
+      "fact": "Twists and flows help remove toxins.",
+      "details": "Dynamic movement increases circulation and supports lymphatic drainage, helping your body naturally eliminate waste."
+    },
+    {
+      "id": 19,
+      "title": "Boosts Lung Capacity",
+      "fact": "Yogic breathing trains you to use your full lungs.",
+      "details": "Deep diaphragmatic breathing expands lung tissue, strengthens respiratory muscles, and increases oxygen efficiency."
+    },
+    {
+      "id": 20,
+      "title": "Pain Management",
+      "fact": "Yoga can reduce chronic pain symptoms.",
+      "details": "Mindful movement rewires pain pathways, relaxes muscle tension, and improves posture — easing discomfort from back pain, arthritis, and migraines."
+    },
+    {
+      "id": 21,
+      "title": "Hormone Balancer",
+      "fact": "Yoga supports endocrine health.",
+      "details": "Gentle inversions and breathwork stimulate glands like the thyroid and adrenals, promoting hormonal stability and vitality."
+    },
+    {
+      "id": 22,
+      "title": "Mindful Eating",
+      "fact": "Yoga encourages healthier food choices.",
+      "details": "Increased awareness helps you notice hunger cues, avoid emotional eating, and develop a balanced relationship with food."
+    },
+    {
+      "id": 23,
+      "title": "Improved Circulation",
+      "fact": "Yoga enhances blood flow throughout the body.",
+      "details": "Stretching and deep breathing dilate blood vessels, improving nutrient delivery and promoting overall cardiovascular wellness."
+    },
+    {
+      "id": 24,
+      "title": "Stronger Core",
+      "fact": "Yoga builds deep abdominal strength.",
+      "details": "Every posture engages stabilizer muscles, creating a strong core that protects your spine and improves daily movement."
+    },
+    {
+      "id": 25,
+      "title": "Boosts Confidence",
+      "fact": "Yoga elevates self-awareness and self-esteem.",
+      "details": "Connecting with your breath and body cultivates inner strength and helps you feel more grounded and empowered."
+    },
+    {
+      "id": 26,
+      "title": "Improves Joint Health",
+      "fact": "Yoga lubricates and protects your joints.",
+      "details": "Gentle motion increases synovial fluid circulation, reducing stiffness and preventing long-term wear and tear."
+    },
+    {
+      "id": 27,
+      "title": "Enhances Concentration",
+      "fact": "Yoga sharpens mental focus.",
+      "details": "Balancing breath and movement trains the mind to stay steady, improving your ability to concentrate on tasks."
+    },
+    {
+      "id": 28,
+      "title": "Healthy Spine",
+      "fact": "Yoga keeps the spine flexible and strong.",
+      "details": "Backbends, forward folds, and twists nourish spinal discs and strengthen supportive muscles — improving posture and reducing pain."
+    },
+    {
+      "id": 29,
+      "title": "Boosts Motivation",
+      "fact": "Yoga increases daily energy and drive.",
+      "details": "Movement and breath stimulate endorphins and improve emotional resilience, helping you stay motivated and productive."
+    },
+    {
+      "id": 30,
+      "title": "Improves Body Awareness",
+      "fact": "Yoga strengthens your mind–body connection.",
+      "details": "Heightened awareness helps you recognize tension patterns, correct posture, and move with more intention."
+    },
+    {
+      "id": 31,
+      "title": "Alleviates Headaches",
+      "fact": "Yoga can reduce the frequency and intensity of headaches.",
+      "details": "Gentle stretches, neck rotations, and breathing exercises relieve tension in the head, neck, and shoulders, helping prevent migraines and stress headaches."
+    },
+    {
+      "id": 32,
+      "title": "Calms the Nervous System",
+      "fact": "Yoga activates your parasympathetic nervous system.",
+      "details": "Slow breathing, forward bends, and restorative poses reduce stress, lower heart rate, and create a deep sense of relaxation."
+    },
+    {
+      "id": 33,
+      "title": "Improves Posture",
+      "fact": "Yoga trains your body to align naturally.",
+      "details": "Strengthening back, core, and shoulder muscles helps reduce slouching and promotes upright, graceful posture."
+    },
+    {
+      "id": 34,
+      "title": "Supports Weight Management",
+      "fact": "Yoga helps balance metabolism and appetite.",
+      "details": "Mindful breathing, stress reduction, and increased physical activity encourage healthy weight regulation."
+    },
+    {
+      "id": 35,
+      "title": "Increases Lung Vitality",
+      "fact": "Breathwork strengthens the respiratory system.",
+      "details": "Practicing pranayama expands lung capacity, improves oxygen absorption, and boosts stamina during exercise and daily life."
+    },
+    {
+      "id": 36,
+      "title": "Enhances Creativity",
+      "fact": "Yoga opens your mind to new ideas.",
+      "details": "Meditation and mindful movement clear mental clutter, allowing fresh perspectives and innovative thinking to emerge."
+    },
+    {
+      "id": 37,
+      "title": "Relieves Neck & Shoulder Tension",
+      "fact": "Yoga stretches and releases tight muscles.",
+      "details": "Postures like Cat-Cow, Eagle Arms, and Thread-the-Needle reduce stiffness, prevent pain, and improve range of motion."
+    },
+    {
+      "id": 38,
+      "title": "Balances Emotions",
+      "fact": "Yoga encourages emotional stability.",
+      "details": "Regular practice reduces mood swings, calms anxiety, and supports emotional resilience through mindful awareness and breath control."
+    },
+    {
+      "id": 39,
+      "title": "Improves Digestion",
+      "fact": "Twisting postures massage abdominal organs.",
+      "details": "Asanas like Revolved Triangle and Seated Spinal Twist stimulate intestinal movement, aid detoxification, and enhance nutrient absorption."
+    },
+    {
+      "id": 40,
+      "title": "Boosts Circulation to the Brain",
+      "fact": "Yoga increases oxygen flow to your brain.",
+      "details": "Inversions, backbends, and dynamic flows improve cognitive function, memory, and alertness."
+    },
+    {
+      "id": 41,
+      "title": "Reduces Inflammation",
+      "fact": "Yoga lowers markers of inflammation in the body.",
+      "details": "Gentle movement, meditation, and breathwork help balance the immune system and reduce chronic inflammation linked to many diseases."
+    },
+    {
+      "id": 42,
+      "title": "Supports Mental Health",
+      "fact": "Yoga decreases symptoms of depression and anxiety.",
+      "details": "Consistent practice improves mood regulation, activates serotonin pathways, and fosters a sense of well-being."
+    },
+    {
+      "id": 43,
+      "title": "Improves Athletic Performance",
+      "fact": "Yoga enhances strength, flexibility, and focus.",
+      "details": "Athletes gain better muscle control, balance, and endurance, reducing injury risk and improving overall performance."
+    },
+    {
+      "id": 44,
+      "title": "Relieves Sciatica Pain",
+      "fact": "Certain yoga poses ease nerve tension.",
+      "details": "Hip openers and gentle spinal stretches release pressure on the sciatic nerve, improving mobility and reducing discomfort."
+    },
+    {
+      "id": 45,
+      "title": "Mindful Awareness",
+      "fact": "Yoga teaches presence in the moment.",
+      "details": "Focusing on breath and movement trains the mind to stay attentive, enhancing clarity, patience, and mindfulness in daily life."
+    },
+    {
+      "id": 46,
+      "title": "Boosts Endurance",
+      "fact": "Yoga improves physical stamina over time.",
+      "details": "Flow sequences and holding poses strengthen muscles and lungs, enhancing overall endurance for daily activities and sports."
+    },
+    {
+      "id": 47,
+      "title": "Reduces Lower Back Pain",
+      "fact": "Yoga alleviates chronic back discomfort.",
+      "details": "Gentle stretches and core strengthening poses release tension, improve posture, and support spinal alignment."
+    },
+    {
+      "id": 48,
+      "title": "Enhances Joint Flexibility",
+      "fact": "Yoga gently stretches ligaments and tendons.",
+      "details": "Regular practice increases the range of motion, reduces stiffness, and prevents joint degeneration."
+    },
+    {
+      "id": 49,
+      "title": "Regulates Blood Sugar",
+      "fact": "Yoga can support healthy glucose levels.",
+      "details": "Twists, forward bends, and breathwork improve insulin sensitivity and metabolic function."
+    },
+    {
+      "id": 50,
+      "title": "Improves Coordination",
+      "fact": "Yoga enhances body awareness and reflexes.",
+      "details": "Balancing poses and mindful movement train the nervous system for smoother, more coordinated motion."
+    },
+    {
+      "id": 51,
+      "title": "Supports Joint Health",
+      "fact": "Yoga keeps your joints supple and healthy.",
+      "details": "Dynamic stretching increases synovial fluid, reduces stiffness, and maintains cartilage integrity."
+    },
+    {
+      "id": 52,
+      "title": "Strengthens Pelvic Floor",
+      "fact": "Yoga improves core stability and pelvic health.",
+      "details": "Poses like Bridge and Chair activate deep muscles, supporting bladder, bowel, and reproductive health."
+    },
+    {
+      "id": 53,
+      "title": "Reduces Stress-Related Cravings",
+      "fact": "Yoga helps control emotional eating.",
+      "details": "Mindful breathing and awareness of bodily sensations reduce stress-driven cravings and encourage balanced nutrition."
+    },
+    {
+      "id": 54,
+      "title": "Increases Mind-Body Connection",
+      "fact": "Yoga strengthens awareness of your body.",
+      "details": "Paying attention to alignment, breath, and sensation helps you move more consciously and prevent injury."
+    },
+    {
+      "id": 55,
+      "title": "Supports Healthy Digestion",
+      "fact": "Yoga helps regulate bowel function.",
+      "details": "Abdominal twists, inversions, and gentle forward bends massage internal organs and stimulate digestion."
+    },
+    {
+      "id": 56,
+      "title": "Relieves Tension Headaches",
+      "fact": "Yoga reduces muscle tightness that triggers headaches.",
+      "details": "Neck stretches, shoulder openers, and relaxation techniques relieve built-up tension and improve circulation to the head."
+    },
+    {
+      "id": 57,
+      "title": "Improves Circulation",
+      "fact": "Yoga promotes healthy blood flow.",
+      "details": "Stretching and inversion poses enhance cardiovascular efficiency and oxygen delivery to tissues."
+    },
+    {
+      "id": 58,
+      "title": "Enhances Focus",
+      "fact": "Yoga trains your mind to stay attentive.",
+      "details": "Breath control, balancing poses, and meditation sharpen concentration and mental clarity."
+    },
+    {
+      "id": 59,
+      "title": "Boosts Mood",
+      "fact": "Yoga increases endorphins and serotonin.",
+      "details": "Movement, stretching, and deep breathing create a sense of happiness, calm, and emotional balance."
+    },
+    {
+      "id": 60,
+      "title": "Supports Lung Health",
+      "fact": "Yoga improves respiratory efficiency.",
+      "details": "Pranayama and full-body stretches expand lung capacity, strengthen breathing muscles, and optimize oxygen use."
+    },
+    {
+      "id": 61,
+      "title": "Reduces Fatigue",
+      "fact": "Yoga revitalizes the body and mind.",
+      "details": "Gentle flows, breathing exercises, and relaxation techniques help restore energy, reduce tiredness, and improve alertness."
+    },
+    {
+      "id": 62,
+      "title": "Promotes Mindful Living",
+      "fact": "Yoga encourages awareness in daily life.",
+      "details": "Practicing presence on the mat strengthens focus, intentional action, and self-awareness off the mat."
+    },
+    {
+      "id": 63,
+      "title": "Improves Digestion",
+      "fact": "Yoga stimulates digestive organs.",
+      "details": "Twisting and forward-bending poses massage the abdomen, enhancing gut motility and nutrient absorption."
+    },
+    {
+      "id": 64,
+      "title": "Enhances Flexibility",
+      "fact": "Yoga stretches muscles and connective tissues.",
+      "details": "Consistent practice lengthens muscles, increases joint range of motion, and reduces stiffness."
+    },
+    {
+      "id": 65,
+      "title": "Strengthens Muscles",
+      "fact": "Yoga builds lean muscle throughout the body.",
+      "details": "Holding poses and flowing through sequences engages multiple muscle groups for functional strength."
+    },
+    {
+      "id": 66,
+      "title": "Supports Heart Health",
+      "fact": "Yoga promotes cardiovascular well-being.",
+      "details": "Gentle flows, inversions, and breathing exercises improve circulation, regulate blood pressure, and reduce heart strain."
+    },
+    {
+      "id": 67,
+      "title": "Enhances Mental Clarity",
+      "fact": "Yoga clears mental fog.",
+      "details": "Focused breathing and mindful movement increase oxygen to the brain, improving memory, concentration, and problem-solving."
+    },
+    {
+      "id": 68,
+      "title": "Relieves Anxiety",
+      "fact": "Yoga calms the nervous system.",
+      "details": "Deep breathing, forward folds, and meditation reduce cortisol and create a grounded, peaceful state of mind."
+    },
+    {
+      "id": 69,
+      "title": "Supports Hormonal Balance",
+      "fact": "Yoga benefits the endocrine system.",
+      "details": "Specific postures and breathwork stimulate glands, helping balance hormones related to stress, metabolism, and reproduction."
+    },
+    {
+      "id": 70,
+      "title": "Improves Sleep Quality",
+      "fact": "Yoga helps you fall asleep faster and sleep deeper.",
+      "details": "Relaxing sequences and calming breathing techniques lower nervous system activity and prepare the body for restorative rest."
+    },
+    {
+      "id": 71,
+      "title": "Enhances Coordination",
+      "fact": "Yoga develops better motor skills.",
+      "details": "Balancing poses and mindful movement improve reflexes, agility, and overall coordination."
+    },
+    {
+      "id": 72,
+      "title": "Reduces Back Tension",
+      "fact": "Yoga stretches and strengthens the spine.",
+      "details": "Backbends, twists, and core work alleviate tightness, improve posture, and prevent chronic pain."
+    },
+    {
+      "id": 73,
+      "title": "Boosts Immunity",
+      "fact": "Yoga supports the body's defense system.",
+      "details": "Movement, deep breathing, and stress reduction improve lymphatic circulation and enhance overall immune function."
+    },
+    {
+      "id": 74,
+      "title": "Enhances Creativity",
+      "fact": "Yoga opens the mind to new possibilities.",
+      "details": "Meditation, breathwork, and mindful movement stimulate innovative thinking and problem-solving skills."
+    },
+    {
+      "id": 75,
+      "title": "Balances Emotions",
+      "fact": "Yoga helps regulate mood swings.",
+      "details": "Breath control and mindful practice calm the mind, reduce stress, and promote emotional stability."
+    },
+        {
+      "id": 76,
+      "title": "Improves Blood Circulation",
+      "fact": "Yoga stimulates healthy blood flow throughout the body.",
+      "details": "Inversions, stretches, and dynamic sequences enhance oxygen and nutrient delivery to tissues, supporting overall vitality."
+    },
+    {
+      "id": 77,
+      "title": "Relieves Tension in Hips",
+      "fact": "Yoga opens tight hips and reduces discomfort.",
+      "details": "Hip-opening poses like Pigeon, Garland, and Butterfly relieve stiffness, improve mobility, and support lower back health."
+    },
+    {
+      "id": 78,
+      "title": "Strengthens Core Stability",
+      "fact": "Yoga builds deep abdominal and back muscles.",
+      "details": "Engaging core muscles in poses improves balance, posture, and functional strength."
+    },
+    {
+      "id": 79,
+      "title": "Enhances Mindfulness",
+      "fact": "Yoga cultivates awareness and presence.",
+      "details": "Focusing on breath, alignment, and movement trains the mind to be fully present, reducing stress and increasing clarity."
+    },
+    {
+      "id": 80,
+      "title": "Supports Joint Longevity",
+      "fact": "Yoga keeps joints healthy and mobile.",
+      "details": "Gentle movement lubricates cartilage and strengthens muscles, reducing the risk of age-related joint problems."
+    },
+    {
+      "id": 81,
+      "title": "Improves Digestive Function",
+      "fact": "Yoga promotes regularity and gut health.",
+      "details": "Twists, forward bends, and gentle abdominal massage improve intestinal motility and nutrient absorption."
+    },
+    {
+      "id": 82,
+      "title": "Reduces Stress Hormones",
+      "fact": "Yoga lowers cortisol naturally.",
+      "details": "Breathwork, meditation, and relaxation sequences calm the nervous system and reduce the physical effects of stress."
+    },
+    {
+      "id": 83,
+      "title": "Enhances Lung Function",
+      "fact": "Yoga improves respiratory efficiency.",
+      "details": "Pranayama and full-body stretches strengthen breathing muscles and increase oxygen intake."
+    },
+    {
+      "id": 84,
+      "title": "Promotes Relaxation",
+      "fact": "Yoga helps the body and mind unwind.",
+      "details": "Restorative poses and meditation activate the parasympathetic nervous system, creating deep calm and reducing tension."
+    },
+    {
+      "id": 85,
+      "title": "Increases Energy",
+      "fact": "Yoga revitalizes the body naturally.",
+      "details": "Dynamic flows and breathwork stimulate circulation and awaken the nervous system, leaving you refreshed and alert."
+    },
+    {
+      "id": 86,
+      "title": "Strengthens Upper Body",
+      "fact": "Yoga tones arms, shoulders, and chest.",
+      "details": "Weight-bearing poses like Plank, Downward Dog, and Chaturanga build strength and stability in the upper body."
+    },
+    {
+      "id": 87,
+      "title": "Enhances Body Awareness",
+      "fact": "Yoga increases awareness of posture and movement.",
+      "details": "Mindful practice teaches you to notice tension, alignment, and balance, reducing injury risk and improving coordination."
+    },
+    {
+      "id": 88,
+      "title": "Reduces Anxiety and Depression",
+      "fact": "Yoga improves mental health naturally.",
+      "details": "Combining movement, breath, and meditation enhances mood, reduces symptoms of depression, and fosters emotional resilience."
+    },
+    {
+      "id": 89,
+      "title": "Supports Spine Health",
+      "fact": "Yoga maintains spinal flexibility and strength.",
+      "details": "Backbends, twists, and core work keep the spine healthy, reduce stiffness, and improve posture."
+    },
+    {
+      "id": 90,
+      "title": "Boosts Circulation to Extremities",
+      "fact": "Yoga improves blood flow to hands and feet.",
+      "details": "Inversions, stretches, and dynamic movements enhance oxygen delivery to extremities, reducing coldness and fatigue."
+    }
+  ]
+}
+
+

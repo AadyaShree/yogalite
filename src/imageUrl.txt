@@ -1,0 +1,68 @@
+https://t3.ftcdn.net/jpg/02/59/18/98/240_F_259189817_R4npMUJLnFYPpz8zN2ya7gO0xszas4vA.jpg
+https://media.istockphoto.com/id/924163384/photo/young-woman-doing-mountain-exercise.jpg?s=612x612&w=0&k=20&c=sbV_6r4Q8lRH2-uLahL_nqTyizkU-OKBXkiLxquAwJY=
+
+
+
+{
+    "id": 1,
+    "name": "Sun Salutation",
+    "sanskrit": "Surya Namaskar",
+    "description": "Dynamic sequence of 12 postures to warm up the entire body.",
+    "benefit": "Improves circulation, strengthens muscles, and energizes the body.",
+    "precaution": "Avoid fast pace if you have heart problems or high blood pressure.",
+    "imageUrl": "https://t3.ftcdn.net/jpg/02/59/18/98/240_F_259189817_R4npMUJLnFYPpz8zN2ya7gO0xszas4vA.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mountain Pose",
+    "sanskrit": "Tadasana",
+    "description": "A foundational standing posture that aligns the entire body.",
+    "benefit": "Improves posture, balance, and awareness.",
+    "precaution": "Avoid locking the knees; maintain a soft bend.",
+    "imageUrl": "https://media.istockphoto.com/id/924163384/photo/young-woman-doing-mountain-exercise.jpg?s=612x612&w=0&k=20&c=sbV_6r4Q8lRH2-uLahL_nqTyizkU-OKBXkiLxquAwJY="
+  },
+  {
+    "id": 3,
+    "name": "Child’s Pose",
+    "sanskrit": "Balasana",
+    "description": "A resting posture that gently stretches the back and hips.",
+    "benefit": "Relieves tension in the back and promotes relaxation.",
+    "precaution": "Avoid if you have severe knee issues.",
+    "imageUrl": "https://img.freepik.com/free-photo/young-attractive-woman-child-pose-studio-background_1163-4555.jpg?ga=GA1.1.257534880.1759763687&semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Downward-Facing Dog",
+    "sanskrit": "Adho Mukha Svanasana",
+    "description": "An inverted V-shaped pose that stretches the spine and shoulders.",
+    "benefit": "Strengthens arms, lengthens the spine, and energizes the body.",
+    "precaution": "Avoid wrist strain; bend knees if hamstrings are tight.",
+    "imageUrl": "https://cdn.yogajournal.com/wp-content/uploads/2021/11/Downward-Facing-Dog-Pose_Andrew-Clark_2400x1350.jpeg?auto=webp&width=3840&quality=75&fit=cover"
+  },
+  {
+    "id": 5,
+    "name": "Cobra Pose",
+    "sanskrit": "Bhujangasana",
+    "description": "A gentle backbend lifting the chest upward.",
+    "benefit": "Strengthens the spine and opens the chest.",
+    "precaution": "Avoid deep bending if you have lower back issues.",
+    "imageUrl": "https://rishikeshashtangayogaschool.com/blog/wp-content/uploads/2021/11/cobra-pose_11zon.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Upward-Facing Dog",
+    "sanskrit": "Urdhva Mukha Svanasana",
+    "description": "A strong backbend supported by hands and feet.",
+    "benefit": "Strengthens arms and back, opens the chest.",
+    "precaution": "Avoid if you have wrist or lower-back pain.",
+    "imageUrl": "https://cdn.yogajournal.com/wp-content/uploads/2021/12/Upward-Facing-Dog_Andrew-Clark.jpg?auto=webp&width=3840&quality=75&fit=cover"
+  },
+  {
+    "id": 7,
+    "name": "Plank Pose",
+    "sanskrit": "Phalakasana",
+    "description": "A core-strengthening pose resembling a push-up position.",
+    "benefit": "Builds core strength, stability, and endurance.",
+    "precaution": "Avoid sagging the lower back; engage your core.",
+    "imageUrl": "https://cdn.yogajournal.com/wp-content/uploads/2022/01/Forearm-Plank_Andrew-Clark.jpg?auto=webp&width=3840&quality=75&fit=cover"
+  },
