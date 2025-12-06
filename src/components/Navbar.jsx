@@ -16,22 +16,22 @@ function Navbar({
   const posesArray = Array.isArray(poseData) ? poseData : [];
 
   // Filter by what user types: "b" -> all with b, "ba" -> balasana, bakasana ...
-//---   const filteredPoses = posesArray.filter((pose) =>
-//   (pose.name || "")
-//     .toLowerCase()
-//     .startsWith(localQuery.toLowerCase())
-// ); --- it was searching with the english name only
-  const filteredPoses = posesArray.filter((pose) =>
-  {const q = (localQuery || "").toLowerCase();
-  const eng = (pose.name || "").toLowerCase();
-  const sans = (pose.sanskrit || "").toLowerCase();
+  //---   const filteredPoses = posesArray.filter((pose) =>
+  //   (pose.name || "")
+  //     .toLowerCase()
+  //     .startsWith(localQuery.toLowerCase())
+  // ); --- it was searching with the english name only
+  const filteredPoses = posesArray.filter((pose) => {
+    const q = (localQuery || "").toLowerCase();
+    const eng = (pose.name || "").toLowerCase();
+    const sans = (pose.sanskrit || "").toLowerCase();
 
-  return eng.startsWith(q) || sans.startsWith(q);}
-  );
+    return eng.startsWith(q) || sans.startsWith(q);
+  });
 
   const handleSelect = (name) => {
-    onSearchChange(name);     // used by Slider
-    setLocalQuery(name);      // show in input
+    onSearchChange(name); // used by Slider
+    setLocalQuery(name); // show in input
     setIsOpen(false);
   };
 
@@ -44,16 +44,17 @@ function Navbar({
     <header className="navbar">
       <div className="n1">
         <div className="navbar-left">
-          <div  className="inside-navbar-left-l">
+          <div className="inside-navbar-left-l">
             <button
-            className="logo-button"
-            onClick={() => onChangePage("home")}
-          >
-            YogaLite
-          </button>
-          </div >
-          <div className="inside-navbar-left-r"><p>| Breathe. Move. Grow.</p></div>
-          
+              className="logo-button"
+              onClick={() => onChangePage("home")}
+            >
+              YogaLite
+            </button>
+          </div>
+          <div className="inside-navbar-left-r">
+            <p>| Breathe. Move. Grow.</p>
+          </div>
         </div>
       </div>
 
@@ -70,14 +71,16 @@ function Navbar({
                 setLocalQuery(e.target.value);
                 setIsOpen(true);
               }}
-              onFocus={handleFocus}
+              // onFocus={handleFocus}
+              onFocus={() => {
+                setLocalQuery(""); // clear text in box
+                onSearchChange(""); // also clear selected pose in App/Slider
+                setIsOpen(true);
+              }}
             />
             {isOpen && (
               <ul className="combo-list">
-                <li
-                  className="combo-item"
-                  onMouseDown={() => handleSelect("")}
-                >
+                <li className="combo-item" onMouseDown={() => handleSelect("")}>
                   All poses
                 </li>
                 {filteredPoses.map((pose) => (
@@ -88,10 +91,7 @@ function Navbar({
                   >
                     {pose.name}
                     {pose.sanskrit && (
-                      <span className="combo-sub">
-                        {" "}
-                        ({pose.sanskrit})
-                      </span>
+                      <span className="combo-sub"> ({pose.sanskrit})</span>
                     )}
                   </li>
                 ))}
@@ -105,8 +105,10 @@ function Navbar({
 
         {/* right side buttons unchanged */}
         <div className="navbar-right">
-          <button className={page === "home" ? "nav-link active" : "nav-link"}
-            onClick={() => onChangePage("home")}>
+          <button
+            className={page === "home" ? "nav-link active" : "nav-link"}
+            onClick={() => onChangePage("home")}
+          >
             Home
           </button>
           <button
@@ -127,9 +129,11 @@ function Navbar({
           >
             About
           </button>
-          <button  className={page === "futureScope" ? "nav-link active" : "nav-link"}
-            onClick={() => onChangePage("future")}>
-           Future
+          <button
+            className={page === "futureScope" ? "nav-link active" : "nav-link"}
+            onClick={() => onChangePage("future")}
+          >
+            Future
           </button>
           {/* login toggle logic. w/o bend just a toggle button */}
           {isLoggedIn ? (
